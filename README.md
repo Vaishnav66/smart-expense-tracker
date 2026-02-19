@@ -30,3 +30,5 @@ Tracks income vs expenses visually.
 ## 👩‍💻 Author
 
 Vaishnavi
+## Version 1.0 Released
+
